@@ -48,12 +48,13 @@ Atualmente foco em:
 
 </div>
 
+---
 
 ## 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=vtoriaoliveira&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -94,7 +95,7 @@ Deploy automatizado utilizando Docker e CI/CD.
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/vtoriaoliveira">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -110,4 +111,3 @@ Deploy automatizado utilizando Docker e CI/CD.
 ```
 
 ---
-
