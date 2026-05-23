@@ -54,24 +54,14 @@ Atualmente foco em:
 
 ## 🧠 Atualmente estudando
 
-- ☁️ Arquitetura em Cloud
+- ☁️ Automatizações
 - ⚡ Sistemas Distribuídos
-- 🐳 Kubernetes & Containers
 - 🔒 Segurança de APIs
 - 📈 Observabilidade
 
+
 ---
 
-## 📌 Projetos em destaque
-
-### 🚀 Sistema de Automação
-Plataforma para automação de workflows e integrações.
-
-### ⚙️ API Escalável
-API backend com autenticação JWT, filas e cache.
-
-### ☁️ Infraestrutura Cloud
-Deploy automatizado utilizando Docker e CI/CD.
 
 ---
 
