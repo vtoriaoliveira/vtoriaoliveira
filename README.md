@@ -1,15 +1,13 @@
 
-
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=color: #a855f7;,50:1e3a8a,100:3b82f6&text=Paula%20Vitória&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Systems%20Reliability%20|%20Workflow%20Architecture&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:581c87,50:7e22ce,100:a855f7&text=Vitoria%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20|%20Web%20Systems%20|%20Software%20Architecture&descAlignY=60&descSize=18" />
 
 # 👋 Olá, eu sou Paula Vitória
 
-💻 Fullstack developer 
-⚙️ Javascript+ react • APIs • Aws • Arquitetura de Sistemas  
-🚀 Construindo soluções escaláveis e eficientes
+💻 Fullstack Developer  
+⚙️ Sistemas Web • APIs REST • Arquitetura de Software  
+🚀 JavaScript • React • Node.js • Banco de Dados
 
 </div>
 
@@ -17,15 +15,16 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonada por tecnologia, desenvolvimento backend e arquitetura de sistemas.
+Sou apaixonada por desenvolvimento fullstack, arquitetura de software e criação de sistemas web modernos e escaláveis.
 
 Atualmente foco em:
 
-- 🔹 APIs REST e microsserviços
-- 🔹 Automação de processos
+- 🔹 Desenvolvimento Fullstack
+- 🔹 APIs REST
+- 🔹 React & Node.js
+- 🔹 Banco de Dados
+- 🔹 Arquitetura de Sistemas
 - 🔹 Performance e escalabilidade
-- 🔹 Observabilidade e confiabilidade
-  
 
 ---
 
@@ -33,7 +32,7 @@ Atualmente foco em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,mongodb,git,github,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode" />
 
 </div>
 
@@ -113,16 +112,3 @@ Deploy automatizado utilizando Docker e CI/CD.
 
 ---
 
-# 📌 Como usar
-
-1. Crie um repositório com o MESMO nome do seu usuário GitHub.
-2. Copie todo o conteúdo acima.
-3. Cole no arquivo `README.md`.
-4. Troque:
-
-   * `SEU_USUARIO`
-   * links do LinkedIn
-   * email
-5. Faça commit.
-
-O README aparecerá automaticamente no topo do seu perfil GitHub.
