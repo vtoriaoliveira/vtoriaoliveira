@@ -1,13 +1,17 @@
 
 
-´´´md
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:3b82f6&text=Paula%20Vitória&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Systems%20Reliability%20|%20Workflow%20Architecture&descAlignY=60&descSize=18" />
+
 # 👋 Olá, eu sou Paula Vitória
 
-💻 Fullstack Developer  
-⚙️ React • Node.js • Apis • Arquitetura de Sistemas  
+💻 Backend Developer  
+⚙️ Automação • APIs • Cloud • Arquitetura de Sistemas  
 🚀 Construindo soluções escaláveis e eficientes
 
-
+</div>
 
 ---
 
@@ -19,12 +23,19 @@ Atualmente foco em:
 
 - 🔹 APIs REST e microsserviços
 - 🔹 Automação de processos
+- 🔹 Cloud & DevOps
 - 🔹 Performance e escalabilidade
 - 🔹 Observabilidade e confiabilidade
- 
 
 ---
 
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,javascript,docker,kubernetes,postgres,mysql,mongodb,redis,linux,git,github,vscode,aws" />
+
+</div>
 
 ---
 
@@ -98,5 +109,20 @@ Deploy automatizado utilizando Docker e CI/CD.
 ✨ Obrigada por visitar meu perfil ✨
 
 </div>
+```
 
+---
 
+# 📌 Como usar
+
+1. Crie um repositório com o MESMO nome do seu usuário GitHub.
+2. Copie todo o conteúdo acima.
+3. Cole no arquivo `README.md`.
+4. Troque:
+
+   * `SEU_USUARIO`
+   * links do LinkedIn
+   * email
+5. Faça commit.
+
+O README aparecerá automaticamente no topo do seu perfil GitHub.
