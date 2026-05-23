@@ -1,16 +1,113 @@
-## Hi there 👋
+# README de Perfil GitHub — Paula Vitória
 
-<!--
-**vtoriaoliveira/vtoriaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```md
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:3b82f6&text=Paula%20Vitória&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Systems%20Reliability%20|%20Workflow%20Architecture&descAlignY=60&descSize=18" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Olá, eu sou Paula Vitória
+
+💻 Backend Developer  
+⚙️ Automação • APIs • Cloud • Arquitetura de Sistemas  
+🚀 Construindo soluções escaláveis e eficientes
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+Sou apaixonada por tecnologia, desenvolvimento backend e arquitetura de sistemas.
+
+Atualmente foco em:
+
+- 🔹 APIs REST e microsserviços
+- 🔹 Automação de processos
+- 🔹 Cloud & DevOps
+- 🔹 Performance e escalabilidade
+- 🔹 Observabilidade e confiabilidade
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,javascript,docker,kubernetes,postgres,mysql,mongodb,redis,linux,git,github,vscode,aws" />
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 🧠 Atualmente estudando
+
+- ☁️ Arquitetura em Cloud
+- ⚡ Sistemas Distribuídos
+- 🐳 Kubernetes & Containers
+- 🔒 Segurança de APIs
+- 📈 Observabilidade
+
+---
+
+## 📌 Projetos em destaque
+
+### 🚀 Sistema de Automação
+Plataforma para automação de workflows e integrações.
+
+### ⚙️ API Escalável
+API backend com autenticação JWT, filas e cache.
+
+### ☁️ Infraestrutura Cloud
+Deploy automatizado utilizando Docker e CI/CD.
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Obrigada por visitar meu perfil ✨
+
+</div>
+
+
