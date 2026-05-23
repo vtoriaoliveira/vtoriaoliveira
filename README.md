@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:581c87,50:7e22ce,100:a855f7&text=Vitoria%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20|%20Web%20Systems%20|%20Software%20Architecture&descAlignY=60&descSize=18" />
 
-# 👋 Olá, eu sou Paula Vitória
+#  Olá, eu sou Paula Vitória
 
 💻 Fullstack Developer  
 ⚙️ Sistemas Web • APIs REST • Arquitetura de Software  
