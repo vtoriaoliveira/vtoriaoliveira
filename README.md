@@ -7,8 +7,8 @@
 
 # 👋 Olá, eu sou Paula Vitória
 
-💻 Backend Developer  
-⚙️ Automação • APIs • Cloud • Arquitetura de Sistemas  
+💻 Fullstack Developer  
+⚙️ React • Node.js • Apis • Arquitetura de Sistemas  
 🚀 Construindo soluções escaláveis e eficientes
 
 </div>
@@ -23,9 +23,9 @@ Atualmente foco em:
 
 - 🔹 APIs REST e microsserviços
 - 🔹 Automação de processos
-- 🔹 Cloud & DevOps
 - 🔹 Performance e escalabilidade
 - 🔹 Observabilidade e confiabilidade
+ 
 
 ---
 
