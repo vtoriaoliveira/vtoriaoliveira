@@ -32,7 +32,7 @@ Atualmente foco em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mysql,git,github,vscode" />
 
 </div>
 
@@ -54,10 +54,11 @@ Atualmente foco em:
 
 ## 🧠 Atualmente estudando
 
-- ☁️ Automatizações
-- ⚡ Sistemas Distribuídos
-- 🔒 Segurança de APIs
-- 📈 Observabilidade
+- ☁️ Automatizações com n8n
+- 🔒 Segurança de APIs e softwares
+- Design UI/UX
+
+
 
 
 ---
@@ -69,7 +70,7 @@ Atualmente foco em:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+<a href="www.linkedin.com/in/vtoriaoliveira">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -85,11 +86,7 @@ Atualmente foco em:
 
 ---
 
-<div align="center">
 
-✨ Obrigada por visitar meu perfil ✨
-
-</div>
 ```
 
 ---
